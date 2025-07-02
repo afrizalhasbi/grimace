@@ -9,5 +9,5 @@ expose!(bmp);
 expose!(jpg);
 expose!(png);
 expose!(pbm);
-// expose!(pgm);
+expose!(tga);
 expose!(ppm);
